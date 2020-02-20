@@ -1,0 +1,26 @@
+{
+  "name": "nodepg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-nodepg": "node index.js",
+    "delgado-prob1": "delgado-prob1.js",
+    "delgado-prob2": "delgado-prob2.js",
+    "delgado-prob3": "delgado-prob3.js",
+    "delgado-prob4": "delgado-prob4.js",
+    "delgado-prob5": "delgado-prob5.js",
+    "delgado-prob6": "delgado-prob6.js",
+    "delgado-prob7": "delgado-prob7.js"
+    
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  }
+}
